@@ -1,0 +1,1261 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "superpowers",
+      "repo": "obra/superpowers",
+      "license": "MIT",
+      "group": "core",
+      "commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+      "skills": [
+        {
+          "name": "test-driven-development",
+          "files": [
+            {
+              "source": "skills/test-driven-development/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "64b03fce4aee5a97a93160cea8111f3ba13a17b7c001db4bd5836d67fd10705d"
+            },
+            {
+              "source": "skills/test-driven-development/writing-good-tests.md",
+              "path": "writing-good-tests.md",
+              "sha256": "51471c853306ff92ca8bb41dcaea05f31c0e46b03651f8f3c99754b7172f4ae1"
+            },
+            {
+              "source": "LICENSE",
+              "path": "UPSTREAM-LICENSE.txt",
+              "sha256": "a37e0e9697144819e1d965176ac4ae5bc3fa02d11e7812036bbcadf6dafe2400"
+            }
+          ]
+        },
+        {
+          "name": "systematic-debugging",
+          "files": [
+            {
+              "source": "skills/systematic-debugging/condition-based-waiting-example.ts",
+              "path": "condition-based-waiting-example.ts",
+              "sha256": "40ae5ebe497fdf310200e43fe986552546d0a22837c0d39e855db1cfd33eb88e"
+            },
+            {
+              "source": "skills/systematic-debugging/condition-based-waiting.md",
+              "path": "condition-based-waiting.md",
+              "sha256": "e89fec8400d6cd50f43407cec9fab50976ba4d55d0ec2eb51c0bd68036b54c26"
+            },
+            {
+              "source": "skills/systematic-debugging/defense-in-depth.md",
+              "path": "defense-in-depth.md",
+              "sha256": "1e175fb86fc357e58c6aebf5441e481e1b7868b4380c0456b63a17eefbd18ba7"
+            },
+            {
+              "source": "skills/systematic-debugging/find-polluter.sh",
+              "path": "find-polluter.sh",
+              "sha256": "dd7b8f13c4cc2a24b33ff87b18da9248f3e1c80a085c3316224f69ff0fa5c43c"
+            },
+            {
+              "source": "skills/systematic-debugging/root-cause-tracing.md",
+              "path": "root-cause-tracing.md",
+              "sha256": "75b933b6a8c40bdb2031b10f21654395b56ec6ab6bc7b018c18d3fe57aeb7fb8"
+            },
+            {
+              "source": "skills/systematic-debugging/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "51c6435d98c83c42c96ba7c35725a0b2c376cd487fb1a4e6bd0ddbe7e33ef202"
+            },
+            {
+              "source": "LICENSE",
+              "path": "UPSTREAM-LICENSE.txt",
+              "sha256": "a37e0e9697144819e1d965176ac4ae5bc3fa02d11e7812036bbcadf6dafe2400"
+            }
+          ]
+        },
+        {
+          "name": "verification-before-completion",
+          "files": [
+            {
+              "source": "skills/verification-before-completion/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3"
+            },
+            {
+              "source": "LICENSE",
+              "path": "UPSTREAM-LICENSE.txt",
+              "sha256": "a37e0e9697144819e1d965176ac4ae5bc3fa02d11e7812036bbcadf6dafe2400"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "matt-engineering",
+      "repo": "mattpocock/skills",
+      "license": "MIT",
+      "group": "core",
+      "commit": "d65391149dbb5fe76478e76fa8d5122b2aa5a70e",
+      "skills": [
+        {
+          "name": "grill-with-docs",
+          "files": [
+            {
+              "source": "skills/engineering/grill-with-docs/agents/openai.yaml",
+              "path": "agents/openai.yaml",
+              "sha256": "94cd0ab161fb468a836349f5ed482ba58ce8e709a05c57ce533d739dbd35cca9"
+            },
+            {
+              "source": "skills/engineering/grill-with-docs/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "7de372c13488f1ee96cc11cd8907b56b6809cc93eef776eeddd37de6b6cbe3fe"
+            },
+            {
+              "source": "LICENSE",
+              "path": "UPSTREAM-LICENSE.txt",
+              "sha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5"
+            }
+          ]
+        },
+        {
+          "name": "domain-modeling",
+          "files": [
+            {
+              "source": "skills/engineering/domain-modeling/ADR-FORMAT.md",
+              "path": "ADR-FORMAT.md",
+              "sha256": "944c92aa790e8fbdc9199640b170979abb8a34ba8d0fe18c2a01a63bce140ca0"
+            },
+            {
+              "source": "skills/engineering/domain-modeling/agents/openai.yaml",
+              "path": "agents/openai.yaml",
+              "sha256": "f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b"
+            },
+            {
+              "source": "skills/engineering/domain-modeling/GLOSSARY-FORMAT.md",
+              "path": "GLOSSARY-FORMAT.md",
+              "sha256": "21dcc40cdec8e151a829b98ab1517c1867bc444e3665134a98c6983411996801"
+            },
+            {
+              "source": "skills/engineering/domain-modeling/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "7b925d7b1e341a2eeae33ad68a8a8c0ab889a38ddd22a7598e4c240e5a7556a3"
+            },
+            {
+              "source": "LICENSE",
+              "path": "UPSTREAM-LICENSE.txt",
+              "sha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5"
+            }
+          ]
+        },
+        {
+          "name": "improve-codebase-architecture",
+          "files": [
+            {
+              "source": "skills/engineering/improve-codebase-architecture/agents/openai.yaml",
+              "path": "agents/openai.yaml",
+              "sha256": "c8cb20f68ebf0edb4e497bc11ae5fcaa196004e661cd189015b04f4109ced7f1"
+            },
+            {
+              "source": "skills/engineering/improve-codebase-architecture/HTML-REPORT.md",
+              "path": "HTML-REPORT.md",
+              "sha256": "581e8bb5a521e46bbda8ca7e19b15948bed882187108092ebb90c62513b77528"
+            },
+            {
+              "source": "skills/engineering/improve-codebase-architecture/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "35b03a3db61e0f5aa333ea59b54963e45a3d2ace6649b2ef4f9576603e2582a6"
+            },
+            {
+              "source": "LICENSE",
+              "path": "UPSTREAM-LICENSE.txt",
+              "sha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5"
+            }
+          ]
+        },
+        {
+          "name": "codebase-design",
+          "files": [
+            {
+              "source": "skills/engineering/codebase-design/agents/openai.yaml",
+              "path": "agents/openai.yaml",
+              "sha256": "edebc9e4fcfe102114012575eaa9600b9b5fd08c311664f389c36e7bc717740f"
+            },
+            {
+              "source": "skills/engineering/codebase-design/DEEPENING.md",
+              "path": "DEEPENING.md",
+              "sha256": "f3dd099ce99289bd213914d8ee3e2429b78309c3957ca4583f7659551b1d53c1"
+            },
+            {
+              "source": "skills/engineering/codebase-design/DESIGN-IT-TWICE.md",
+              "path": "DESIGN-IT-TWICE.md",
+              "sha256": "c222ab5a82e0405672eb9062d62496139a08828e45d07fc5f18e4952c10fac1a"
+            },
+            {
+              "source": "skills/engineering/codebase-design/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "2c20617f87ec8af6a434859f381b2f061a69b530444e74eb39e78bb016a6d1e2"
+            },
+            {
+              "source": "LICENSE",
+              "path": "UPSTREAM-LICENSE.txt",
+              "sha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5"
+            }
+          ]
+        },
+        {
+          "name": "to-spec",
+          "files": [
+            {
+              "source": "skills/engineering/to-spec/agents/openai.yaml",
+              "path": "agents/openai.yaml",
+              "sha256": "1c5b4d1e3d8e52287ef19cc2742fdbbfae1914ac75d33af3e4c8174f08cc55bb"
+            },
+            {
+              "source": "skills/engineering/to-spec/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "43ad9cf318e5e7d3d1fa360253a37021796dc87a0c2e595ad262661a10f85088"
+            },
+            {
+              "source": "LICENSE",
+              "path": "UPSTREAM-LICENSE.txt",
+              "sha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5"
+            }
+          ]
+        },
+        {
+          "name": "to-tickets",
+          "files": [
+            {
+              "source": "skills/engineering/to-tickets/agents/openai.yaml",
+              "path": "agents/openai.yaml",
+              "sha256": "21bc6215fffcd7614e9f772bb1760e87cc5fc7dcc707e7d282bc9414267a6090"
+            },
+            {
+              "source": "skills/engineering/to-tickets/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "56ec23c5b2782785d4e65bff9e315b6d3aeb4ef977c174a219e99489fada1995"
+            },
+            {
+              "source": "LICENSE",
+              "path": "UPSTREAM-LICENSE.txt",
+              "sha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5"
+            }
+          ]
+        },
+        {
+          "name": "retro",
+          "files": [
+            {
+              "source": "skills/engineering/retro/agents/openai.yaml",
+              "path": "agents/openai.yaml",
+              "sha256": "cb6fb9d7e6b4be5975f41f6def1dd00a1255bad5d9b02696b124c924a8b8745c"
+            },
+            {
+              "source": "skills/engineering/retro/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "33fbc28568e3146f20fd908b12998bc0ab30aa4f4c87288199a40793efa94696"
+            },
+            {
+              "source": "LICENSE",
+              "path": "UPSTREAM-LICENSE.txt",
+              "sha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "matt-productivity",
+      "repo": "mattpocock/skills",
+      "license": "MIT",
+      "group": "core",
+      "commit": "d65391149dbb5fe76478e76fa8d5122b2aa5a70e",
+      "skills": [
+        {
+          "name": "grilling",
+          "files": [
+            {
+              "source": "skills/productivity/grilling/agents/openai.yaml",
+              "path": "agents/openai.yaml",
+              "sha256": "1411d7df7d99b7e621a1ff8283c8133cc2464be63d064e52d8ce169c6800ee9b"
+            },
+            {
+              "source": "skills/productivity/grilling/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "a146842ed93ca43d833550fa9adf02e58cb63c83fea9d4b4522995b82242d4e2"
+            },
+            {
+              "source": "LICENSE",
+              "path": "UPSTREAM-LICENSE.txt",
+              "sha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5"
+            }
+          ]
+        },
+        {
+          "name": "handoff",
+          "files": [
+            {
+              "source": "skills/productivity/handoff/agents/openai.yaml",
+              "path": "agents/openai.yaml",
+              "sha256": "5c479fd562c691851690e8b18c8501045bef0943c10743d636b2fae26add1d28"
+            },
+            {
+              "source": "skills/productivity/handoff/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "4cbb043950dad2ffd3662ff1a5a0b51ae676004b5cae10e3787e8ee7a4ee69d3"
+            },
+            {
+              "source": "LICENSE",
+              "path": "UPSTREAM-LICENSE.txt",
+              "sha256": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anthropic-office",
+      "repo": "anthropics/skills",
+      "license": "Apache-2.0",
+      "group": "office",
+      "commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+      "skills": [
+        {
+          "name": "docx",
+          "files": [
+            {
+              "source": "skills/docx/LICENSE.txt",
+              "path": "LICENSE.txt",
+              "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+            },
+            {
+              "source": "skills/docx/scripts/__init__.py",
+              "path": "scripts/__init__.py",
+              "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+            },
+            {
+              "source": "skills/docx/scripts/accept_changes.py",
+              "path": "scripts/accept_changes.py",
+              "sha256": "0c991d2bc7304a1248e9f3bf9b1498f0b6e76641fc457e7cbd73c99b4eef3a74"
+            },
+            {
+              "source": "skills/docx/scripts/comment.py",
+              "path": "scripts/comment.py",
+              "sha256": "37d116e5f56bb142b208c6c6a4bbcf960495abf470ddb7c6675ccfac864ba3d7"
+            },
+            {
+              "source": "skills/docx/scripts/merge_runs.py",
+              "path": "scripts/merge_runs.py",
+              "sha256": "3ab367fd7fba4647943d0aa5e65203b15458551410f5ffc821d902616a4b9f40"
+            },
+            {
+              "source": "skills/docx/scripts/office/helpers/__init__.py",
+              "path": "scripts/office/helpers/__init__.py",
+              "sha256": "5c456ffc522900399b5f9402f92d66aaf2d9f87655d236c69f60bf07f4fd7c9b"
+            },
+            {
+              "source": "skills/docx/scripts/office/helpers/pptx_chart.py",
+              "path": "scripts/office/helpers/pptx_chart.py",
+              "sha256": "aed734e9a6c743ae712fc228c868bf0f6abcfb6a53549eefb19081b15d240fda"
+            },
+            {
+              "source": "skills/docx/scripts/office/helpers/pptx_slide.py",
+              "path": "scripts/office/helpers/pptx_slide.py",
+              "sha256": "06fe06953bf038826b85ecc142f4dc9299a37fa0c4e4dd9b00b10486df33524d"
+            },
+            {
+              "source": "skills/docx/scripts/office/helpers/pptx_theme.py",
+              "path": "scripts/office/helpers/pptx_theme.py",
+              "sha256": "ebb54c56e9c13807f5f98f0cae22d47cdd0162da8525eaa664e3f2c8c8d6bb03"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-contentTypes.xsd",
+              "path": "scripts/office/schemas/ecma/fouth-edition/opc-contentTypes.xsd",
+              "sha256": "9e0b7209fc69ab11987900404540969976000c5ebe4d4f58c43dc3842886bf3a"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-coreProperties.xsd",
+              "path": "scripts/office/schemas/ecma/fouth-edition/opc-coreProperties.xsd",
+              "sha256": "451958454e8588dfc7cd945981ada142ca06ff3307937f5700df059c2b307fa8"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-digSig.xsd",
+              "path": "scripts/office/schemas/ecma/fouth-edition/opc-digSig.xsd",
+              "sha256": "6de111e11403f7cd49027400755bae0ea1cabef2815f09bd40a24f0017613b24"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-relationships.xsd",
+              "path": "scripts/office/schemas/ecma/fouth-edition/opc-relationships.xsd",
+              "sha256": "f565adfef5a502044abc3a9153e157edc25af78304d335994afb958874b15e26"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chart.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-chart.xsd",
+              "sha256": "41b93bd8857cc68b1e43be2806a872d736a9bdd6566900062d8fdb57d7bbb354"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chartDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-chartDrawing.xsd",
+              "sha256": "3fd0586f2637b98bb9886f0e0b67d89e1cc987c2d158cc7deb5f5b9890ced412"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-diagram.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-diagram.xsd",
+              "sha256": "29b254ee0d10414a8504b5a08149c7baec35a60d5ff607d6b3f492aa36815f40"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-lockedCanvas.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-lockedCanvas.xsd",
+              "sha256": "5cb76dabd8b97d1e9308a1700b90c20139be4d50792d21a7f09789f5cccd6026"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-main.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-main.xsd",
+              "sha256": "5375417f0f5394b8dd1a7035b9679151f19a6b65df309dec10cfb4a420cb00e9"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-picture.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-picture.xsd",
+              "sha256": "5d389d42befbebd91945d620242347caecd3367f9a3a7cf8d97949507ae1f53c"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-spreadsheetDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-spreadsheetDrawing.xsd",
+              "sha256": "b4532b6d258832953fbb3ee4c711f4fe25d3faf46a10644b2505f17010d01e88"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-wordprocessingDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-wordprocessingDrawing.xsd",
+              "sha256": "bdad416b096b61d37b71603b2c949484f9070c830bdaeba93bf35e15c8900614"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/pml.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/pml.xsd",
+              "sha256": "d173c3e5d61e42e2e3a97226c632fd2ab7cc481fc4e492365b87024ab546daff"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-additionalCharacteristics.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-additionalCharacteristics.xsd",
+              "sha256": "3c6709101c6aaa82888df5d8795c33f9e857196790eb320d9194e64be2b6bdd8"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-bibliography.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-bibliography.xsd",
+              "sha256": "0b364451dc36a48dd6dae0f3b6ada05fd9b71e5208211f8ee5537d7e51a587e2"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-commonSimpleTypes.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-commonSimpleTypes.xsd",
+              "sha256": "e2abacbb9a55ce1365f8961bc1b1395bbc811e512b111000d8c333f98458dece"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlDataProperties.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlDataProperties.xsd",
+              "sha256": "0ef4bb354ff44b923564c4ddbdda5987919d220225129ec94614a618ceafc281"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlSchemaProperties.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlSchemaProperties.xsd",
+              "sha256": "0d103b99a4a8652f8871552a69d42d2a3760ac6a5e3ef02d979c4273257ff6a4"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesCustom.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesCustom.xsd",
+              "sha256": "9c085407751b9061c1f996f6c39ce58451be22a8d334f09175f0e89e42736285"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesExtended.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesExtended.xsd",
+              "sha256": "bc92e36ccd233722d4c5869bec71ddc7b12e2df56059942cce5a39065cc9c368"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesVariantTypes.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesVariantTypes.xsd",
+              "sha256": "7b5b7413e2c895b1e148e82e292a117d53c7ec65b0696c992edca57b61b4a74b"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-math.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-math.xsd",
+              "sha256": "3213ef1631606250f5010b42cad7ef716f7c59426367798e33c374c0ec391d3a"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-relationshipReference.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-relationshipReference.xsd",
+              "sha256": "12264f3c03d738311cd9237d212f1c07479e70f0cbe1ae725d29b36539aef637"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/sml.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/sml.xsd",
+              "sha256": "beffeed56945c22a77440122c8bdc426f3fcbe7f3b12ea0976c770d1f8d54578"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-main.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/vml-main.xsd",
+              "sha256": "f5ee623b08b6a66935e5aced2f5d8ad0fc71bf9e8e833cd490150c0fa94b8763"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-officeDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/vml-officeDrawing.xsd",
+              "sha256": "585bedc1313b40888dcc544cb74cd939a105ee674f3b1d3aa1cc6d34f70ff155"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-presentationDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/vml-presentationDrawing.xsd",
+              "sha256": "133c9f64a5c5d573b78d0a474122b22506d8eadb5e063f67cdbbb8fa2f161d0e"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-spreadsheetDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/vml-spreadsheetDrawing.xsd",
+              "sha256": "6bdeb169c3717eb01108853bd9fc5a3750fb1fa5b82abbdd854d49855a40f519"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-wordprocessingDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/vml-wordprocessingDrawing.xsd",
+              "sha256": "475dcae1e7d1ea46232db6f8481040c15e53a52a3c256831d3df204212b0e831"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/wml.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/wml.xsd",
+              "sha256": "c2dd9f61f892deae6acd8d20771ea79b12018af25f3bf8d06639c8542d218cfd"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/xml.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/xml.xsd",
+              "sha256": "a539aa2fb154fa50e0f5cc97e6ad7cbc66f8ec3e3746f61ec6a8b0d5d15ecdf2"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/mce/mc.xsd",
+              "path": "scripts/office/schemas/mce/mc.xsd",
+              "sha256": "3a37e461ecf5a8670fdec34029703401f8728ab9c96ec1739a6ae58d55212413"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/microsoft/wml-2010.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-2010.xsd",
+              "sha256": "568b26ee156cb9549aa439ca2158965f77b7c1602b7e0316f40ac6cf586e35f2"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/microsoft/wml-2012.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-2012.xsd",
+              "sha256": "0fa75578a000439a7988ba0c59fdc69f774bbd416cbacc14d07125b3f686cb74"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/microsoft/wml-2018.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-2018.xsd",
+              "sha256": "be0ff793a22dd31384650c3a4da14c2fa8062751c2e97b0e5ee852bda13c60ad"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/microsoft/wml-cex-2018.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-cex-2018.xsd",
+              "sha256": "fddc2b880cabb9005aebbc7e783e53c19fec1c03df7d0e2f2076a33a0fdfd081"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/microsoft/wml-cid-2016.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-cid-2016.xsd",
+              "sha256": "127ca209fa73d7cb708449cb355c871867948a96e4a74f7bf5811ef62d17991d"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/microsoft/wml-sdtdatahash-2020.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-sdtdatahash-2020.xsd",
+              "sha256": "842e7163409c8d74f4d7088a8bc99500d80bc75332681a0980055b08f374a604"
+            },
+            {
+              "source": "skills/docx/scripts/office/schemas/microsoft/wml-symex-2015.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-symex-2015.xsd",
+              "sha256": "16f6f8072249f431370723c2cd8974672e0d9c897e00e97dd918079df934871b"
+            },
+            {
+              "source": "skills/docx/scripts/office/soffice.py",
+              "path": "scripts/office/soffice.py",
+              "sha256": "bcfa227707681ffbecc0f0af5c4e7155407b3baaf5cec5cdd41387c97cdd40c7"
+            },
+            {
+              "source": "skills/docx/scripts/office/validate.py",
+              "path": "scripts/office/validate.py",
+              "sha256": "8c10ec61d8e880877515019e1fe8fab9a1f590c9e50ed0631418e960aca1e313"
+            },
+            {
+              "source": "skills/docx/scripts/office/validators/__init__.py",
+              "path": "scripts/office/validators/__init__.py",
+              "sha256": "83e0f035c5abea238d3f2c3968afbd511ed022b527b7c9cb60a9434cc34ff987"
+            },
+            {
+              "source": "skills/docx/scripts/office/validators/base.py",
+              "path": "scripts/office/validators/base.py",
+              "sha256": "6129ec6a4fc0a4aa78af1434f9baa73994cc24d3261afda4e680e00f215cbf3b"
+            },
+            {
+              "source": "skills/docx/scripts/office/validators/docx.py",
+              "path": "scripts/office/validators/docx.py",
+              "sha256": "7b0f1a23c9cd9ff07187d9d7d359f62317f94a5e389d63fd19766e1688a195a2"
+            },
+            {
+              "source": "skills/docx/scripts/office/validators/pptx.py",
+              "path": "scripts/office/validators/pptx.py",
+              "sha256": "3a100ec5f00ae183bca67f4aaa8e3e902caee60254e141b8120f32c53d85cee7"
+            },
+            {
+              "source": "skills/docx/scripts/office/validators/redlining.py",
+              "path": "scripts/office/validators/redlining.py",
+              "sha256": "f9c4455adc32b3890d5203d6c25d868d98d7e970bbad76b686f502950737599a"
+            },
+            {
+              "source": "skills/docx/scripts/templates/comments.xml",
+              "path": "scripts/templates/comments.xml",
+              "sha256": "a08ba83ee8790ac9e3dc61921f4988f19edd7e06ac09d6f1897a877c1581818d"
+            },
+            {
+              "source": "skills/docx/scripts/templates/commentsExtended.xml",
+              "path": "scripts/templates/commentsExtended.xml",
+              "sha256": "544eeecfeceed4b468fff163cd9c366d33641c8b8ab691ce002576197846afe8"
+            },
+            {
+              "source": "skills/docx/scripts/templates/commentsExtensible.xml",
+              "path": "scripts/templates/commentsExtensible.xml",
+              "sha256": "bad10b3283e6ad6e7ef6d1ca5169683721ed690ee331282c65df04017e080631"
+            },
+            {
+              "source": "skills/docx/scripts/templates/commentsIds.xml",
+              "path": "scripts/templates/commentsIds.xml",
+              "sha256": "db20f9616e004ec42ef736e80c2384e45db0f8d1194d31dc8b37c7d6ecdd6420"
+            },
+            {
+              "source": "skills/docx/scripts/templates/people.xml",
+              "path": "scripts/templates/people.xml",
+              "sha256": "056f63aa1197fd8c9dda980c9f1b9ff016fd5fa4a462df8aec5f384f39d23e37"
+            },
+            {
+              "source": "skills/docx/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "895d5aa6c4cd98e4aed4c995d846f056f3549086e79bcd6617afea6014f82288"
+            }
+          ]
+        },
+        {
+          "name": "pdf",
+          "files": [
+            {
+              "source": "skills/pdf/FORMS.md",
+              "path": "FORMS.md",
+              "sha256": "d5df5757e23634cd8a1a37e092af6c3b3b63afb3fd3ce86337fce9017cc3ee9f"
+            },
+            {
+              "source": "skills/pdf/LICENSE.txt",
+              "path": "LICENSE.txt",
+              "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+            },
+            {
+              "source": "skills/pdf/REFERENCE.md",
+              "path": "REFERENCE.md",
+              "sha256": "07af9a8f59e77e88fe9b238a403348244f38a4771c54911c412716d8f88f0ea9"
+            },
+            {
+              "source": "skills/pdf/scripts/check_bounding_boxes.py",
+              "path": "scripts/check_bounding_boxes.py",
+              "sha256": "0ced522402dd7b3c82a0be9518cf4e485fa9cc0467d7beab6ddb04cb36fcc3e1"
+            },
+            {
+              "source": "skills/pdf/scripts/check_fillable_fields.py",
+              "path": "scripts/check_fillable_fields.py",
+              "sha256": "1fe10b9980a5493c9bbec8c20630c603eaa475b45403751c08f26738736647b8"
+            },
+            {
+              "source": "skills/pdf/scripts/convert_pdf_to_images.py",
+              "path": "scripts/convert_pdf_to_images.py",
+              "sha256": "7f58e292a67e18a8ff000d30bad2469389546731f7e8a698cc1d0aed001ea15d"
+            },
+            {
+              "source": "skills/pdf/scripts/create_validation_image.py",
+              "path": "scripts/create_validation_image.py",
+              "sha256": "8fa9fd7962c9f940045b81cf6b991e7c1057c1838e3f9cc6d305007a222ffebf"
+            },
+            {
+              "source": "skills/pdf/scripts/extract_form_field_info.py",
+              "path": "scripts/extract_form_field_info.py",
+              "sha256": "bb235b36f497bbb1c7c6821cecf527bbba7213520de11219da99f7b13a38c109"
+            },
+            {
+              "source": "skills/pdf/scripts/extract_form_structure.py",
+              "path": "scripts/extract_form_structure.py",
+              "sha256": "6814e3fe8f78c2b16d766c132b5a727ff7a31b71d76a7d46bd6e40fe50bc97c5"
+            },
+            {
+              "source": "skills/pdf/scripts/fill_fillable_fields.py",
+              "path": "scripts/fill_fillable_fields.py",
+              "sha256": "d140872c2e92e41b1e05370ae8d270c5b7f5ebdf55d9905f03bc974a9c708ff5"
+            },
+            {
+              "source": "skills/pdf/scripts/fill_pdf_form_with_annotations.py",
+              "path": "scripts/fill_pdf_form_with_annotations.py",
+              "sha256": "8a56e063a49ed53c0b0e1d312ecf8023af76816ed139486ec3b539873de202fd"
+            },
+            {
+              "source": "skills/pdf/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "d1c7caf5f35eb7d37877dd7fc33a095037be2b34fb5d2f7f4d43bde3165bb4ee"
+            }
+          ]
+        },
+        {
+          "name": "pptx",
+          "files": [
+            {
+              "source": "skills/pptx/LICENSE.txt",
+              "path": "LICENSE.txt",
+              "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+            },
+            {
+              "source": "skills/pptx/scripts/__init__.py",
+              "path": "scripts/__init__.py",
+              "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+              "source": "skills/pptx/scripts/add_slide.py",
+              "path": "scripts/add_slide.py",
+              "sha256": "23a4c66a9f43e651189cbc9f82ba0a8271d19dc8d44cf0c426dda66f7eb6a93a"
+            },
+            {
+              "source": "skills/pptx/scripts/apply_theme.js",
+              "path": "scripts/apply_theme.js",
+              "sha256": "e440b33c43f2e707076cb64b57ca926ce886564b115c19ee23ac487bdb1a6259"
+            },
+            {
+              "source": "skills/pptx/scripts/clean.py",
+              "path": "scripts/clean.py",
+              "sha256": "5c808cd4dff7e02661ef3c68b5917f4e25097cc6610c92a3a7df4a6366a5c3c1"
+            },
+            {
+              "source": "skills/pptx/scripts/office/helpers/__init__.py",
+              "path": "scripts/office/helpers/__init__.py",
+              "sha256": "5c456ffc522900399b5f9402f92d66aaf2d9f87655d236c69f60bf07f4fd7c9b"
+            },
+            {
+              "source": "skills/pptx/scripts/office/helpers/pptx_chart.py",
+              "path": "scripts/office/helpers/pptx_chart.py",
+              "sha256": "aed734e9a6c743ae712fc228c868bf0f6abcfb6a53549eefb19081b15d240fda"
+            },
+            {
+              "source": "skills/pptx/scripts/office/helpers/pptx_slide.py",
+              "path": "scripts/office/helpers/pptx_slide.py",
+              "sha256": "06fe06953bf038826b85ecc142f4dc9299a37fa0c4e4dd9b00b10486df33524d"
+            },
+            {
+              "source": "skills/pptx/scripts/office/helpers/pptx_theme.py",
+              "path": "scripts/office/helpers/pptx_theme.py",
+              "sha256": "ebb54c56e9c13807f5f98f0cae22d47cdd0162da8525eaa664e3f2c8c8d6bb03"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ecma/fouth-edition/opc-contentTypes.xsd",
+              "path": "scripts/office/schemas/ecma/fouth-edition/opc-contentTypes.xsd",
+              "sha256": "9e0b7209fc69ab11987900404540969976000c5ebe4d4f58c43dc3842886bf3a"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ecma/fouth-edition/opc-coreProperties.xsd",
+              "path": "scripts/office/schemas/ecma/fouth-edition/opc-coreProperties.xsd",
+              "sha256": "451958454e8588dfc7cd945981ada142ca06ff3307937f5700df059c2b307fa8"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ecma/fouth-edition/opc-digSig.xsd",
+              "path": "scripts/office/schemas/ecma/fouth-edition/opc-digSig.xsd",
+              "sha256": "6de111e11403f7cd49027400755bae0ea1cabef2815f09bd40a24f0017613b24"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ecma/fouth-edition/opc-relationships.xsd",
+              "path": "scripts/office/schemas/ecma/fouth-edition/opc-relationships.xsd",
+              "sha256": "f565adfef5a502044abc3a9153e157edc25af78304d335994afb958874b15e26"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chart.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-chart.xsd",
+              "sha256": "41b93bd8857cc68b1e43be2806a872d736a9bdd6566900062d8fdb57d7bbb354"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chartDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-chartDrawing.xsd",
+              "sha256": "3fd0586f2637b98bb9886f0e0b67d89e1cc987c2d158cc7deb5f5b9890ced412"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-diagram.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-diagram.xsd",
+              "sha256": "29b254ee0d10414a8504b5a08149c7baec35a60d5ff607d6b3f492aa36815f40"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-lockedCanvas.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-lockedCanvas.xsd",
+              "sha256": "5cb76dabd8b97d1e9308a1700b90c20139be4d50792d21a7f09789f5cccd6026"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-main.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-main.xsd",
+              "sha256": "5375417f0f5394b8dd1a7035b9679151f19a6b65df309dec10cfb4a420cb00e9"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-picture.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-picture.xsd",
+              "sha256": "5d389d42befbebd91945d620242347caecd3367f9a3a7cf8d97949507ae1f53c"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-spreadsheetDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-spreadsheetDrawing.xsd",
+              "sha256": "b4532b6d258832953fbb3ee4c711f4fe25d3faf46a10644b2505f17010d01e88"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-wordprocessingDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-wordprocessingDrawing.xsd",
+              "sha256": "bdad416b096b61d37b71603b2c949484f9070c830bdaeba93bf35e15c8900614"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/pml.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/pml.xsd",
+              "sha256": "d173c3e5d61e42e2e3a97226c632fd2ab7cc481fc4e492365b87024ab546daff"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-additionalCharacteristics.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-additionalCharacteristics.xsd",
+              "sha256": "3c6709101c6aaa82888df5d8795c33f9e857196790eb320d9194e64be2b6bdd8"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-bibliography.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-bibliography.xsd",
+              "sha256": "0b364451dc36a48dd6dae0f3b6ada05fd9b71e5208211f8ee5537d7e51a587e2"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-commonSimpleTypes.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-commonSimpleTypes.xsd",
+              "sha256": "e2abacbb9a55ce1365f8961bc1b1395bbc811e512b111000d8c333f98458dece"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlDataProperties.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlDataProperties.xsd",
+              "sha256": "0ef4bb354ff44b923564c4ddbdda5987919d220225129ec94614a618ceafc281"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlSchemaProperties.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlSchemaProperties.xsd",
+              "sha256": "0d103b99a4a8652f8871552a69d42d2a3760ac6a5e3ef02d979c4273257ff6a4"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesCustom.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesCustom.xsd",
+              "sha256": "9c085407751b9061c1f996f6c39ce58451be22a8d334f09175f0e89e42736285"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesExtended.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesExtended.xsd",
+              "sha256": "bc92e36ccd233722d4c5869bec71ddc7b12e2df56059942cce5a39065cc9c368"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesVariantTypes.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesVariantTypes.xsd",
+              "sha256": "7b5b7413e2c895b1e148e82e292a117d53c7ec65b0696c992edca57b61b4a74b"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-math.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-math.xsd",
+              "sha256": "3213ef1631606250f5010b42cad7ef716f7c59426367798e33c374c0ec391d3a"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-relationshipReference.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-relationshipReference.xsd",
+              "sha256": "12264f3c03d738311cd9237d212f1c07479e70f0cbe1ae725d29b36539aef637"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/sml.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/sml.xsd",
+              "sha256": "beffeed56945c22a77440122c8bdc426f3fcbe7f3b12ea0976c770d1f8d54578"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-main.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/vml-main.xsd",
+              "sha256": "f5ee623b08b6a66935e5aced2f5d8ad0fc71bf9e8e833cd490150c0fa94b8763"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-officeDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/vml-officeDrawing.xsd",
+              "sha256": "585bedc1313b40888dcc544cb74cd939a105ee674f3b1d3aa1cc6d34f70ff155"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-presentationDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/vml-presentationDrawing.xsd",
+              "sha256": "133c9f64a5c5d573b78d0a474122b22506d8eadb5e063f67cdbbb8fa2f161d0e"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-spreadsheetDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/vml-spreadsheetDrawing.xsd",
+              "sha256": "6bdeb169c3717eb01108853bd9fc5a3750fb1fa5b82abbdd854d49855a40f519"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-wordprocessingDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/vml-wordprocessingDrawing.xsd",
+              "sha256": "475dcae1e7d1ea46232db6f8481040c15e53a52a3c256831d3df204212b0e831"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/wml.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/wml.xsd",
+              "sha256": "c2dd9f61f892deae6acd8d20771ea79b12018af25f3bf8d06639c8542d218cfd"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/xml.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/xml.xsd",
+              "sha256": "a539aa2fb154fa50e0f5cc97e6ad7cbc66f8ec3e3746f61ec6a8b0d5d15ecdf2"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/mce/mc.xsd",
+              "path": "scripts/office/schemas/mce/mc.xsd",
+              "sha256": "3a37e461ecf5a8670fdec34029703401f8728ab9c96ec1739a6ae58d55212413"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/microsoft/wml-2010.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-2010.xsd",
+              "sha256": "568b26ee156cb9549aa439ca2158965f77b7c1602b7e0316f40ac6cf586e35f2"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/microsoft/wml-2012.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-2012.xsd",
+              "sha256": "0fa75578a000439a7988ba0c59fdc69f774bbd416cbacc14d07125b3f686cb74"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/microsoft/wml-2018.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-2018.xsd",
+              "sha256": "be0ff793a22dd31384650c3a4da14c2fa8062751c2e97b0e5ee852bda13c60ad"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/microsoft/wml-cex-2018.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-cex-2018.xsd",
+              "sha256": "fddc2b880cabb9005aebbc7e783e53c19fec1c03df7d0e2f2076a33a0fdfd081"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/microsoft/wml-cid-2016.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-cid-2016.xsd",
+              "sha256": "127ca209fa73d7cb708449cb355c871867948a96e4a74f7bf5811ef62d17991d"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/microsoft/wml-sdtdatahash-2020.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-sdtdatahash-2020.xsd",
+              "sha256": "842e7163409c8d74f4d7088a8bc99500d80bc75332681a0980055b08f374a604"
+            },
+            {
+              "source": "skills/pptx/scripts/office/schemas/microsoft/wml-symex-2015.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-symex-2015.xsd",
+              "sha256": "16f6f8072249f431370723c2cd8974672e0d9c897e00e97dd918079df934871b"
+            },
+            {
+              "source": "skills/pptx/scripts/office/soffice.py",
+              "path": "scripts/office/soffice.py",
+              "sha256": "bcfa227707681ffbecc0f0af5c4e7155407b3baaf5cec5cdd41387c97cdd40c7"
+            },
+            {
+              "source": "skills/pptx/scripts/office/validate.py",
+              "path": "scripts/office/validate.py",
+              "sha256": "8c10ec61d8e880877515019e1fe8fab9a1f590c9e50ed0631418e960aca1e313"
+            },
+            {
+              "source": "skills/pptx/scripts/office/validators/__init__.py",
+              "path": "scripts/office/validators/__init__.py",
+              "sha256": "83e0f035c5abea238d3f2c3968afbd511ed022b527b7c9cb60a9434cc34ff987"
+            },
+            {
+              "source": "skills/pptx/scripts/office/validators/base.py",
+              "path": "scripts/office/validators/base.py",
+              "sha256": "6129ec6a4fc0a4aa78af1434f9baa73994cc24d3261afda4e680e00f215cbf3b"
+            },
+            {
+              "source": "skills/pptx/scripts/office/validators/docx.py",
+              "path": "scripts/office/validators/docx.py",
+              "sha256": "7b0f1a23c9cd9ff07187d9d7d359f62317f94a5e389d63fd19766e1688a195a2"
+            },
+            {
+              "source": "skills/pptx/scripts/office/validators/pptx.py",
+              "path": "scripts/office/validators/pptx.py",
+              "sha256": "3a100ec5f00ae183bca67f4aaa8e3e902caee60254e141b8120f32c53d85cee7"
+            },
+            {
+              "source": "skills/pptx/scripts/office/validators/redlining.py",
+              "path": "scripts/office/validators/redlining.py",
+              "sha256": "f9c4455adc32b3890d5203d6c25d868d98d7e970bbad76b686f502950737599a"
+            },
+            {
+              "source": "skills/pptx/scripts/slide_text.py",
+              "path": "scripts/slide_text.py",
+              "sha256": "0deab09d4ae494411ee893f9c69fffc19fe264a6053990a2f066334c0d88d422"
+            },
+            {
+              "source": "skills/pptx/scripts/thumbnail.py",
+              "path": "scripts/thumbnail.py",
+              "sha256": "94ef83a84346aa2d63913de0d42bb2fe902ccdc17bfac6130096ca758381793c"
+            },
+            {
+              "source": "skills/pptx/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "598c981d93f2173b251f86a4bc94e9fb4e4f5ddaa314ba2dd4eca24b7a07808e"
+            }
+          ]
+        },
+        {
+          "name": "xlsx",
+          "files": [
+            {
+              "source": "skills/xlsx/LICENSE.txt",
+              "path": "LICENSE.txt",
+              "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/helpers/__init__.py",
+              "path": "scripts/office/helpers/__init__.py",
+              "sha256": "5c456ffc522900399b5f9402f92d66aaf2d9f87655d236c69f60bf07f4fd7c9b"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/helpers/pptx_chart.py",
+              "path": "scripts/office/helpers/pptx_chart.py",
+              "sha256": "aed734e9a6c743ae712fc228c868bf0f6abcfb6a53549eefb19081b15d240fda"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/helpers/pptx_slide.py",
+              "path": "scripts/office/helpers/pptx_slide.py",
+              "sha256": "06fe06953bf038826b85ecc142f4dc9299a37fa0c4e4dd9b00b10486df33524d"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/helpers/pptx_theme.py",
+              "path": "scripts/office/helpers/pptx_theme.py",
+              "sha256": "ebb54c56e9c13807f5f98f0cae22d47cdd0162da8525eaa664e3f2c8c8d6bb03"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ecma/fouth-edition/opc-contentTypes.xsd",
+              "path": "scripts/office/schemas/ecma/fouth-edition/opc-contentTypes.xsd",
+              "sha256": "9e0b7209fc69ab11987900404540969976000c5ebe4d4f58c43dc3842886bf3a"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ecma/fouth-edition/opc-coreProperties.xsd",
+              "path": "scripts/office/schemas/ecma/fouth-edition/opc-coreProperties.xsd",
+              "sha256": "451958454e8588dfc7cd945981ada142ca06ff3307937f5700df059c2b307fa8"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ecma/fouth-edition/opc-digSig.xsd",
+              "path": "scripts/office/schemas/ecma/fouth-edition/opc-digSig.xsd",
+              "sha256": "6de111e11403f7cd49027400755bae0ea1cabef2815f09bd40a24f0017613b24"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ecma/fouth-edition/opc-relationships.xsd",
+              "path": "scripts/office/schemas/ecma/fouth-edition/opc-relationships.xsd",
+              "sha256": "f565adfef5a502044abc3a9153e157edc25af78304d335994afb958874b15e26"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chart.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-chart.xsd",
+              "sha256": "41b93bd8857cc68b1e43be2806a872d736a9bdd6566900062d8fdb57d7bbb354"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chartDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-chartDrawing.xsd",
+              "sha256": "3fd0586f2637b98bb9886f0e0b67d89e1cc987c2d158cc7deb5f5b9890ced412"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-diagram.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-diagram.xsd",
+              "sha256": "29b254ee0d10414a8504b5a08149c7baec35a60d5ff607d6b3f492aa36815f40"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-lockedCanvas.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-lockedCanvas.xsd",
+              "sha256": "5cb76dabd8b97d1e9308a1700b90c20139be4d50792d21a7f09789f5cccd6026"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-main.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-main.xsd",
+              "sha256": "5375417f0f5394b8dd1a7035b9679151f19a6b65df309dec10cfb4a420cb00e9"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-picture.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-picture.xsd",
+              "sha256": "5d389d42befbebd91945d620242347caecd3367f9a3a7cf8d97949507ae1f53c"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-spreadsheetDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-spreadsheetDrawing.xsd",
+              "sha256": "b4532b6d258832953fbb3ee4c711f4fe25d3faf46a10644b2505f17010d01e88"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-wordprocessingDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/dml-wordprocessingDrawing.xsd",
+              "sha256": "bdad416b096b61d37b71603b2c949484f9070c830bdaeba93bf35e15c8900614"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/pml.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/pml.xsd",
+              "sha256": "d173c3e5d61e42e2e3a97226c632fd2ab7cc481fc4e492365b87024ab546daff"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-additionalCharacteristics.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-additionalCharacteristics.xsd",
+              "sha256": "3c6709101c6aaa82888df5d8795c33f9e857196790eb320d9194e64be2b6bdd8"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-bibliography.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-bibliography.xsd",
+              "sha256": "0b364451dc36a48dd6dae0f3b6ada05fd9b71e5208211f8ee5537d7e51a587e2"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-commonSimpleTypes.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-commonSimpleTypes.xsd",
+              "sha256": "e2abacbb9a55ce1365f8961bc1b1395bbc811e512b111000d8c333f98458dece"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlDataProperties.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlDataProperties.xsd",
+              "sha256": "0ef4bb354ff44b923564c4ddbdda5987919d220225129ec94614a618ceafc281"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlSchemaProperties.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlSchemaProperties.xsd",
+              "sha256": "0d103b99a4a8652f8871552a69d42d2a3760ac6a5e3ef02d979c4273257ff6a4"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesCustom.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesCustom.xsd",
+              "sha256": "9c085407751b9061c1f996f6c39ce58451be22a8d334f09175f0e89e42736285"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesExtended.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesExtended.xsd",
+              "sha256": "bc92e36ccd233722d4c5869bec71ddc7b12e2df56059942cce5a39065cc9c368"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesVariantTypes.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesVariantTypes.xsd",
+              "sha256": "7b5b7413e2c895b1e148e82e292a117d53c7ec65b0696c992edca57b61b4a74b"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-math.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-math.xsd",
+              "sha256": "3213ef1631606250f5010b42cad7ef716f7c59426367798e33c374c0ec391d3a"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-relationshipReference.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/shared-relationshipReference.xsd",
+              "sha256": "12264f3c03d738311cd9237d212f1c07479e70f0cbe1ae725d29b36539aef637"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/sml.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/sml.xsd",
+              "sha256": "beffeed56945c22a77440122c8bdc426f3fcbe7f3b12ea0976c770d1f8d54578"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-main.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/vml-main.xsd",
+              "sha256": "f5ee623b08b6a66935e5aced2f5d8ad0fc71bf9e8e833cd490150c0fa94b8763"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-officeDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/vml-officeDrawing.xsd",
+              "sha256": "585bedc1313b40888dcc544cb74cd939a105ee674f3b1d3aa1cc6d34f70ff155"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-presentationDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/vml-presentationDrawing.xsd",
+              "sha256": "133c9f64a5c5d573b78d0a474122b22506d8eadb5e063f67cdbbb8fa2f161d0e"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-spreadsheetDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/vml-spreadsheetDrawing.xsd",
+              "sha256": "6bdeb169c3717eb01108853bd9fc5a3750fb1fa5b82abbdd854d49855a40f519"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-wordprocessingDrawing.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/vml-wordprocessingDrawing.xsd",
+              "sha256": "475dcae1e7d1ea46232db6f8481040c15e53a52a3c256831d3df204212b0e831"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/wml.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/wml.xsd",
+              "sha256": "c2dd9f61f892deae6acd8d20771ea79b12018af25f3bf8d06639c8542d218cfd"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/xml.xsd",
+              "path": "scripts/office/schemas/ISO-IEC29500-4_2016/xml.xsd",
+              "sha256": "a539aa2fb154fa50e0f5cc97e6ad7cbc66f8ec3e3746f61ec6a8b0d5d15ecdf2"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/mce/mc.xsd",
+              "path": "scripts/office/schemas/mce/mc.xsd",
+              "sha256": "3a37e461ecf5a8670fdec34029703401f8728ab9c96ec1739a6ae58d55212413"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/microsoft/wml-2010.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-2010.xsd",
+              "sha256": "568b26ee156cb9549aa439ca2158965f77b7c1602b7e0316f40ac6cf586e35f2"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/microsoft/wml-2012.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-2012.xsd",
+              "sha256": "0fa75578a000439a7988ba0c59fdc69f774bbd416cbacc14d07125b3f686cb74"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/microsoft/wml-2018.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-2018.xsd",
+              "sha256": "be0ff793a22dd31384650c3a4da14c2fa8062751c2e97b0e5ee852bda13c60ad"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/microsoft/wml-cex-2018.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-cex-2018.xsd",
+              "sha256": "fddc2b880cabb9005aebbc7e783e53c19fec1c03df7d0e2f2076a33a0fdfd081"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/microsoft/wml-cid-2016.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-cid-2016.xsd",
+              "sha256": "127ca209fa73d7cb708449cb355c871867948a96e4a74f7bf5811ef62d17991d"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/microsoft/wml-sdtdatahash-2020.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-sdtdatahash-2020.xsd",
+              "sha256": "842e7163409c8d74f4d7088a8bc99500d80bc75332681a0980055b08f374a604"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/schemas/microsoft/wml-symex-2015.xsd",
+              "path": "scripts/office/schemas/microsoft/wml-symex-2015.xsd",
+              "sha256": "16f6f8072249f431370723c2cd8974672e0d9c897e00e97dd918079df934871b"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/soffice.py",
+              "path": "scripts/office/soffice.py",
+              "sha256": "bcfa227707681ffbecc0f0af5c4e7155407b3baaf5cec5cdd41387c97cdd40c7"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/validate.py",
+              "path": "scripts/office/validate.py",
+              "sha256": "8c10ec61d8e880877515019e1fe8fab9a1f590c9e50ed0631418e960aca1e313"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/validators/__init__.py",
+              "path": "scripts/office/validators/__init__.py",
+              "sha256": "83e0f035c5abea238d3f2c3968afbd511ed022b527b7c9cb60a9434cc34ff987"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/validators/base.py",
+              "path": "scripts/office/validators/base.py",
+              "sha256": "6129ec6a4fc0a4aa78af1434f9baa73994cc24d3261afda4e680e00f215cbf3b"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/validators/docx.py",
+              "path": "scripts/office/validators/docx.py",
+              "sha256": "7b0f1a23c9cd9ff07187d9d7d359f62317f94a5e389d63fd19766e1688a195a2"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/validators/pptx.py",
+              "path": "scripts/office/validators/pptx.py",
+              "sha256": "3a100ec5f00ae183bca67f4aaa8e3e902caee60254e141b8120f32c53d85cee7"
+            },
+            {
+              "source": "skills/xlsx/scripts/office/validators/redlining.py",
+              "path": "scripts/office/validators/redlining.py",
+              "sha256": "f9c4455adc32b3890d5203d6c25d868d98d7e970bbad76b686f502950737599a"
+            },
+            {
+              "source": "skills/xlsx/scripts/recalc.py",
+              "path": "scripts/recalc.py",
+              "sha256": "7265aa4a41f5273596ee5694ce8a4d881c18adafb6203fece769107d08403263"
+            },
+            {
+              "source": "skills/xlsx/SKILL.md",
+              "path": "SKILL.md",
+              "sha256": "f32b1c2b5d5d31e02964df110d6489613d9345f86830c118cfe24159d8448ce6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

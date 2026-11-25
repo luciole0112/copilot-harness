@@ -1,0 +1,8 @@
+node_modules/
+/.harness-local/
+/.mcp.json
+/.vscode/mcp.json
+/.github/skills/docx/
+/.github/skills/pdf/
+/.github/skills/pptx/
+/.github/skills/xlsx/

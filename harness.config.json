@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "profiles": [
+    "harness"
+  ],
+  "timeoutSeconds": 300
+}

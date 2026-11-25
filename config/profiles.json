@@ -1,0 +1,173 @@
+{
+  "harness": {
+    "quick": [],
+    "standard": [],
+    "deep": []
+  },
+  "typescript": {
+    "quick": [
+      [
+        "npm",
+        "run",
+        "lint"
+      ]
+    ],
+    "standard": [
+      [
+        "npm",
+        "run",
+        "typecheck"
+      ],
+      [
+        "npm",
+        "run",
+        "test:ci"
+      ]
+    ],
+    "deep": [
+      [
+        "npm",
+        "run",
+        "build"
+      ]
+    ]
+  },
+  "python": {
+    "quick": [
+      [
+        "python",
+        "-m",
+        "ruff",
+        "check",
+        "."
+      ]
+    ],
+    "standard": [
+      [
+        "python",
+        "-m",
+        "pyright"
+      ],
+      [
+        "python",
+        "-m",
+        "pytest",
+        "-q"
+      ]
+    ],
+    "deep": [
+      [
+        "python",
+        "-m",
+        "build",
+        "--outdir",
+        "dist"
+      ]
+    ]
+  },
+  "java": {
+    "quick": [
+      [
+        "mvn",
+        "-B",
+        "validate"
+      ]
+    ],
+    "standard": [
+      [
+        "mvn",
+        "-B",
+        "test"
+      ]
+    ],
+    "deep": [
+      [
+        "mvn",
+        "-B",
+        "verify"
+      ]
+    ]
+  },
+  "dotnet": {
+    "quick": [
+      [
+        "dotnet",
+        "format",
+        "--verify-no-changes"
+      ]
+    ],
+    "standard": [
+      [
+        "dotnet",
+        "test",
+        "--no-restore"
+      ]
+    ],
+    "deep": [
+      [
+        "dotnet",
+        "build",
+        "-c",
+        "Release",
+        "--no-restore"
+      ]
+    ]
+  },
+  "go": {
+    "quick": [
+      [
+        "go",
+        "vet",
+        "./..."
+      ]
+    ],
+    "standard": [
+      [
+        "go",
+        "test",
+        "./..."
+      ]
+    ],
+    "deep": [
+      [
+        "go",
+        "build",
+        "./..."
+      ]
+    ]
+  },
+  "rust": {
+    "quick": [
+      [
+        "cargo",
+        "fmt",
+        "--all",
+        "--",
+        "--check"
+      ]
+    ],
+    "standard": [
+      [
+        "cargo",
+        "clippy",
+        "--all-targets",
+        "--",
+        "-D",
+        "warnings"
+      ],
+      [
+        "cargo",
+        "test",
+        "--locked"
+      ]
+    ],
+    "deep": [
+      [
+        "cargo",
+        "build",
+        "--locked",
+        "--release"
+      ]
+    ]
+  }
+}
